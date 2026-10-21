@@ -2,7 +2,7 @@
 
 <img align="right" width="230" src="assets/hero.gif" alt="">
 
-<p><em>Software Engineer at <a href="https://callrounded.com">Rounded</a>, building voice agents <img src="assets/phone.gif" height="16" alt=""><br>
+<p><em>Solution Engineer at <a href="https://callrounded.com">Rounded</a>, building voice agents <img src="assets/phone.gif" height="16" alt=""><br>
 Stanford '26 <img src="assets/cap.gif" height="16" alt=""> <br>
 Paris, France <img src="assets/city.gif" height="16" alt=""> </em></p>
 
