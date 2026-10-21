@@ -1,16 +1,15 @@
-## Hi there 👋
+### Nael Ghoundale
 
-<!--
-**JDID38/JDID38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building voice agents at [Rounded](https://callrounded.com). Stanford '26.
+Paris.
 
-Here are some ideas to get you started:
+**Now**
+- Infra & workflows for production voice AI (Python, TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Before**
+- CS234: multi-agent RL ([MARL_cs234](https://github.com/JDID38/MARL_cs234))
+- ME210: [project site](...)
+
+**Interests:** agent orchestration, RL, reliability of LLM systems in prod.
+
+[blog](https://jdid38.github.io/blog/) · [linkedin](https://www.linkedin.com/in/nael-ghoundale-412312261/) · nael@callrounded.com
